@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36109.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EconomicNews", "EconomicNews.csproj", "{F36DD5F1-3D56-47B3-A49F-A653A65B3B10}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EconomicNews_DAL", "..\EconomicNews_DAL\EconomicNews_DAL.csproj", "{7881FFA4-A88E-4205-AA1D-466FC8A3259B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EconomicNews_BLL", "..\EconomicNews_BLL\EconomicNews_BLL.csproj", "{788F3DC3-28C0-44B5-B180-061E812CE7F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntegrationLayer", "..\IntegrationLayer\IntegrationLayer.csproj", "{72E79DCA-54DE-48DE-8AF7-0B03F1EFA3C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EconomicNews_Test", "..\EconomicNews_Test\EconomicNews_Test.csproj", "{4600ED35-BE46-4EEF-8F8D-B704216B817D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Services", "..\Services\Services.csproj", "{63503A5D-9162-40E8-803C-E7F321DDAB64}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F36DD5F1-3D56-47B3-A49F-A653A65B3B10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F36DD5F1-3D56-47B3-A49F-A653A65B3B10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F36DD5F1-3D56-47B3-A49F-A653A65B3B10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F36DD5F1-3D56-47B3-A49F-A653A65B3B10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7881FFA4-A88E-4205-AA1D-466FC8A3259B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7881FFA4-A88E-4205-AA1D-466FC8A3259B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7881FFA4-A88E-4205-AA1D-466FC8A3259B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7881FFA4-A88E-4205-AA1D-466FC8A3259B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{788F3DC3-28C0-44B5-B180-061E812CE7F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{788F3DC3-28C0-44B5-B180-061E812CE7F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{788F3DC3-28C0-44B5-B180-061E812CE7F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{788F3DC3-28C0-44B5-B180-061E812CE7F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72E79DCA-54DE-48DE-8AF7-0B03F1EFA3C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72E79DCA-54DE-48DE-8AF7-0B03F1EFA3C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72E79DCA-54DE-48DE-8AF7-0B03F1EFA3C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72E79DCA-54DE-48DE-8AF7-0B03F1EFA3C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4600ED35-BE46-4EEF-8F8D-B704216B817D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4600ED35-BE46-4EEF-8F8D-B704216B817D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4600ED35-BE46-4EEF-8F8D-B704216B817D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4600ED35-BE46-4EEF-8F8D-B704216B817D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63503A5D-9162-40E8-803C-E7F321DDAB64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63503A5D-9162-40E8-803C-E7F321DDAB64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63503A5D-9162-40E8-803C-E7F321DDAB64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63503A5D-9162-40E8-803C-E7F321DDAB64}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD90A658-945E-4D3F-9DE9-11CFD7F1B7B4}
+	EndGlobalSection
+EndGlobal

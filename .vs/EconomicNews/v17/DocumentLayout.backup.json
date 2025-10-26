@@ -1,0 +1,722 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\iT\\source\\repos\\EconomicNews\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F36DD5F1-3D56-47B3-A49F-A653A65B3B10}|EconomicNews.csproj|c:\\users\\it\\source\\repos\\economicnews\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F36DD5F1-3D56-47B3-A49F-A653A65B3B10}|EconomicNews.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F36DD5F1-3D56-47B3-A49F-A653A65B3B10}|EconomicNews.csproj|c:\\users\\it\\source\\repos\\economicnews\\controllers\\companycontrolle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F36DD5F1-3D56-47B3-A49F-A653A65B3B10}|EconomicNews.csproj|solutionrelative:controllers\\companycontrolle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E79DCA-54DE-48DE-8AF7-0B03F1EFA3C2}|..\\IntegrationLayer\\IntegrationLayer.csproj|c:\\users\\it\\source\\repos\\integrationlayer\\apis\\newsapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63503A5D-9162-40E8-803C-E7F321DDAB64}|..\\Services\\Services.csproj|c:\\users\\it\\source\\repos\\services\\backgroundservices\\newsservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7881FFA4-A88E-4205-AA1D-466FC8A3259B}|..\\EconomicNews_DAL\\EconomicNews_DAL.csproj|c:\\users\\it\\source\\repos\\economicnews_dal\\currencydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{788F3DC3-28C0-44B5-B180-061E812CE7F5}|..\\EconomicNews_BLL\\EconomicNews_BLL.csproj|c:\\users\\it\\source\\repos\\economicnews_bll\\currencybll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F36DD5F1-3D56-47B3-A49F-A653A65B3B10}|EconomicNews.csproj|c:\\users\\it\\source\\repos\\economicnews\\controllers\\currencycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F36DD5F1-3D56-47B3-A49F-A653A65B3B10}|EconomicNews.csproj|solutionrelative:controllers\\currencycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E79DCA-54DE-48DE-8AF7-0B03F1EFA3C2}|..\\IntegrationLayer\\IntegrationLayer.csproj|c:\\users\\it\\source\\repos\\integrationlayer\\apis\\currencyapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63503A5D-9162-40E8-803C-E7F321DDAB64}|..\\Services\\Services.csproj|c:\\users\\it\\source\\repos\\services\\backgroundservices\\currencyservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F36DD5F1-3D56-47B3-A49F-A653A65B3B10}|EconomicNews.csproj|c:\\users\\it\\source\\repos\\economicnews\\controllers\\userportfoliocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F36DD5F1-3D56-47B3-A49F-A653A65B3B10}|EconomicNews.csproj|solutionrelative:controllers\\userportfoliocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{788F3DC3-28C0-44B5-B180-061E812CE7F5}|..\\EconomicNews_BLL\\EconomicNews_BLL.csproj|c:\\users\\it\\source\\repos\\economicnews_bll\\userportfolioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7881FFA4-A88E-4205-AA1D-466FC8A3259B}|..\\EconomicNews_DAL\\EconomicNews_DAL.csproj|c:\\users\\it\\source\\repos\\economicnews_dal\\userportfoliodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7881FFA4-A88E-4205-AA1D-466FC8A3259B}|..\\EconomicNews_DAL\\EconomicNews_DAL.csproj|c:\\users\\it\\source\\repos\\economicnews_dal\\models\\userportfolio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{788F3DC3-28C0-44B5-B180-061E812CE7F5}|..\\EconomicNews_BLL\\EconomicNews_BLL.csproj|c:\\users\\it\\source\\repos\\economicnews_bll\\useralert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{788F3DC3-28C0-44B5-B180-061E812CE7F5}|..\\EconomicNews_BLL\\EconomicNews_BLL.csproj|c:\\users\\it\\source\\repos\\economicnews_bll\\dtos\\userportfoliodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7881FFA4-A88E-4205-AA1D-466FC8A3259B}|..\\EconomicNews_DAL\\EconomicNews_DAL.csproj|c:\\users\\it\\source\\repos\\economicnews_dal\\useralertdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7881FFA4-A88E-4205-AA1D-466FC8A3259B}|..\\EconomicNews_DAL\\EconomicNews_DAL.csproj|c:\\users\\it\\source\\repos\\economicnews_dal\\models\\useralert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F36DD5F1-3D56-47B3-A49F-A653A65B3B10}|EconomicNews.csproj|c:\\users\\it\\source\\repos\\economicnews\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F36DD5F1-3D56-47B3-A49F-A653A65B3B10}|EconomicNews.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{788F3DC3-28C0-44B5-B180-061E812CE7F5}|..\\EconomicNews_BLL\\EconomicNews_BLL.csproj|c:\\users\\it\\source\\repos\\economicnews_bll\\authentication\\jwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F36DD5F1-3D56-47B3-A49F-A653A65B3B10}|EconomicNews.csproj|c:\\users\\it\\source\\repos\\economicnews\\controllers\\useralertcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F36DD5F1-3D56-47B3-A49F-A653A65B3B10}|EconomicNews.csproj|solutionrelative:controllers\\useralertcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{788F3DC3-28C0-44B5-B180-061E812CE7F5}|..\\EconomicNews_BLL\\EconomicNews_BLL.csproj|c:\\users\\it\\source\\repos\\economicnews_bll\\news.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{788F3DC3-28C0-44B5-B180-061E812CE7F5}|..\\EconomicNews_BLL\\EconomicNews_BLL.csproj|c:\\users\\it\\source\\repos\\economicnews_bll\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F36DD5F1-3D56-47B3-A49F-A653A65B3B10}|EconomicNews.csproj|c:\\users\\it\\source\\repos\\economicnews\\controllers\\emailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F36DD5F1-3D56-47B3-A49F-A653A65B3B10}|EconomicNews.csproj|solutionrelative:controllers\\emailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{788F3DC3-28C0-44B5-B180-061E812CE7F5}|..\\EconomicNews_BLL\\EconomicNews_BLL.csproj|c:\\users\\it\\source\\repos\\economicnews_bll\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F36DD5F1-3D56-47B3-A49F-A653A65B3B10}|EconomicNews.csproj|c:\\users\\it\\source\\repos\\economicnews\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F36DD5F1-3D56-47B3-A49F-A653A65B3B10}|EconomicNews.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F36DD5F1-3D56-47B3-A49F-A653A65B3B10}|EconomicNews.csproj|c:\\users\\it\\source\\repos\\economicnews\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F36DD5F1-3D56-47B3-A49F-A653A65B3B10}|EconomicNews.csproj|solutionrelative:controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7881FFA4-A88E-4205-AA1D-466FC8A3259B}|..\\EconomicNews_DAL\\EconomicNews_DAL.csproj|c:\\users\\it\\source\\repos\\economicnews_dal\\userdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7881FFA4-A88E-4205-AA1D-466FC8A3259B}|..\\EconomicNews_DAL\\EconomicNews_DAL.csproj|c:\\users\\it\\source\\repos\\economicnews_dal\\models\\users .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{788F3DC3-28C0-44B5-B180-061E812CE7F5}|..\\EconomicNews_BLL\\EconomicNews_BLL.csproj|c:\\users\\it\\source\\repos\\economicnews_bll\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{788F3DC3-28C0-44B5-B180-061E812CE7F5}|..\\EconomicNews_BLL\\EconomicNews_BLL.csproj|c:\\users\\it\\source\\repos\\economicnews_bll\\registerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{788F3DC3-28C0-44B5-B180-061E812CE7F5}|..\\EconomicNews_BLL\\EconomicNews_BLL.csproj|c:\\users\\it\\source\\repos\\economicnews_bll\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7881FFA4-A88E-4205-AA1D-466FC8A3259B}|..\\EconomicNews_DAL\\EconomicNews_DAL.csproj|c:\\users\\it\\source\\repos\\economicnews_dal\\persondata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7881FFA4-A88E-4205-AA1D-466FC8A3259B}|..\\EconomicNews_DAL\\EconomicNews_DAL.csproj|c:\\users\\it\\source\\repos\\economicnews_dal\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{788F3DC3-28C0-44B5-B180-061E812CE7F5}|..\\EconomicNews_BLL\\EconomicNews_BLL.csproj|c:\\users\\it\\source\\repos\\economicnews_bll\\dtos\\useralertdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{788F3DC3-28C0-44B5-B180-061E812CE7F5}|..\\EconomicNews_BLL\\EconomicNews_BLL.csproj|c:\\users\\it\\source\\repos\\economicnews_bll\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E79DCA-54DE-48DE-8AF7-0B03F1EFA3C2}|..\\IntegrationLayer\\IntegrationLayer.csproj|c:\\users\\it\\source\\repos\\integrationlayer\\apis\\metaenergypriceapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E79DCA-54DE-48DE-8AF7-0B03F1EFA3C2}|..\\IntegrationLayer\\IntegrationLayer.csproj|c:\\users\\it\\source\\repos\\integrationlayer\\dtos\\historicalprice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7881FFA4-A88E-4205-AA1D-466FC8A3259B}|..\\EconomicNews_DAL\\EconomicNews_DAL.csproj|c:\\users\\it\\source\\repos\\economicnews_dal\\models\\metaenergyprice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{788F3DC3-28C0-44B5-B180-061E812CE7F5}|..\\EconomicNews_BLL\\EconomicNews_BLL.csproj|c:\\users\\it\\source\\repos\\economicnews_bll\\dtos\\metaenergypricedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E79DCA-54DE-48DE-8AF7-0B03F1EFA3C2}|..\\IntegrationLayer\\IntegrationLayer.csproj|c:\\users\\it\\source\\repos\\integrationlayer\\dtos\\metaenergypriceapidto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{788F3DC3-28C0-44B5-B180-061E812CE7F5}|..\\EconomicNews_BLL\\EconomicNews_BLL.csproj|c:\\users\\it\\source\\repos\\economicnews_bll\\metaenergyprice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7881FFA4-A88E-4205-AA1D-466FC8A3259B}|..\\EconomicNews_DAL\\EconomicNews_DAL.csproj|c:\\users\\it\\source\\repos\\economicnews_dal\\metaenergypricedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E79DCA-54DE-48DE-8AF7-0B03F1EFA3C2}|..\\IntegrationLayer\\IntegrationLayer.csproj|c:\\users\\it\\source\\repos\\integrationlayer\\apis\\marketstackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F36DD5F1-3D56-47B3-A49F-A653A65B3B10}|EconomicNews.csproj|c:\\users\\it\\source\\repos\\economicnews\\controllers\\metalscommoditycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F36DD5F1-3D56-47B3-A49F-A653A65B3B10}|EconomicNews.csproj|solutionrelative:controllers\\metalscommoditycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7881FFA4-A88E-4205-AA1D-466FC8A3259B}|..\\EconomicNews_DAL\\EconomicNews_DAL.csproj|c:\\users\\it\\source\\repos\\economicnews_dal\\migrations\\20250902021252_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\iT\\source\\repos\\EconomicNews\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\iT\\source\\repos\\EconomicNews\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAAAIwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T11:19:24.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CompanyControlle.cs",
+              "DocumentMoniker": "C:\\Users\\iT\\source\\repos\\EconomicNews\\Controllers\\CompanyControlle.cs",
+              "RelativeDocumentMoniker": "Controllers\\CompanyControlle.cs",
+              "ToolTip": "C:\\Users\\iT\\source\\repos\\EconomicNews\\Controllers\\CompanyControlle.cs",
+              "RelativeToolTip": "Controllers\\CompanyControlle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T07:40:41.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NewsApi.cs",
+              "DocumentMoniker": "C:\\Users\\iT\\source\\repos\\IntegrationLayer\\APIs\\NewsApi.cs",
+              "RelativeDocumentMoniker": "..\\IntegrationLayer\\APIs\\NewsApi.cs",
+              "ToolTip": "C:\\Users\\iT\\source\\repos\\IntegrationLayer\\APIs\\NewsApi.cs",
+              "RelativeToolTip": "..\\IntegrationLayer\\APIs\\NewsApi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T11:05:58.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CurrencyBLL.cs",
+              "DocumentMoniker": "C:\\Users\\iT\\source\\repos\\EconomicNews_BLL\\CurrencyBLL.cs",
+              "RelativeDocumentMoniker": "..\\EconomicNews_BLL\\CurrencyBLL.cs",
+              "ToolTip": "C:\\Users\\iT\\source\\repos\\EconomicNews_BLL\\CurrencyBLL.cs",
+              "RelativeToolTip": "..\\EconomicNews_BLL\\CurrencyBLL.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAA3wHkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T03:32:47.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CurrencyController.cs",
+              "DocumentMoniker": "C:\\Users\\iT\\source\\repos\\EconomicNews\\Controllers\\CurrencyController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CurrencyController.cs",
+              "ToolTip": "C:\\Users\\iT\\source\\repos\\EconomicNews\\Controllers\\CurrencyController.cs",
+              "RelativeToolTip": "Controllers\\CurrencyController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAmwDMAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T03:32:25.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CurrencyApi.cs",
+              "DocumentMoniker": "C:\\Users\\iT\\source\\repos\\IntegrationLayer\\APIs\\CurrencyApi.cs",
+              "RelativeDocumentMoniker": "..\\IntegrationLayer\\APIs\\CurrencyApi.cs",
+              "ToolTip": "C:\\Users\\iT\\source\\repos\\IntegrationLayer\\APIs\\CurrencyApi.cs",
+              "RelativeToolTip": "..\\IntegrationLayer\\APIs\\CurrencyApi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T03:31:38.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CurrencyServices.cs",
+              "DocumentMoniker": "C:\\Users\\iT\\source\\repos\\Services\\BackgroundServices\\CurrencyServices.cs",
+              "RelativeDocumentMoniker": "..\\Services\\BackgroundServices\\CurrencyServices.cs",
+              "ToolTip": "C:\\Users\\iT\\source\\repos\\Services\\BackgroundServices\\CurrencyServices.cs",
+              "RelativeToolTip": "..\\Services\\BackgroundServices\\CurrencyServices.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T03:31:27.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NewsServices.cs",
+              "DocumentMoniker": "C:\\Users\\iT\\source\\repos\\Services\\BackgroundServices\\NewsServices.cs",
+              "RelativeDocumentMoniker": "..\\Services\\BackgroundServices\\NewsServices.cs",
+              "ToolTip": "C:\\Users\\iT\\source\\repos\\Services\\BackgroundServices\\NewsServices.cs",
+              "RelativeToolTip": "..\\Services\\BackgroundServices\\NewsServices.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T15:34:36.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserPortfolioService.cs",
+              "DocumentMoniker": "C:\\Users\\iT\\source\\repos\\EconomicNews_BLL\\UserPortfolioService.cs",
+              "RelativeDocumentMoniker": "..\\EconomicNews_BLL\\UserPortfolioService.cs",
+              "ToolTip": "C:\\Users\\iT\\source\\repos\\EconomicNews_BLL\\UserPortfolioService.cs",
+              "RelativeToolTip": "..\\EconomicNews_BLL\\UserPortfolioService.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAowFYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T01:11:01.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CurrencyData.cs",
+              "DocumentMoniker": "C:\\Users\\iT\\source\\repos\\EconomicNews_DAL\\CurrencyData.cs",
+              "RelativeDocumentMoniker": "..\\EconomicNews_DAL\\CurrencyData.cs",
+              "ToolTip": "C:\\Users\\iT\\source\\repos\\EconomicNews_DAL\\CurrencyData.cs",
+              "RelativeToolTip": "..\\EconomicNews_DAL\\CurrencyData.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA4wCYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T03:33:15.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserPortfolioController.cs",
+              "DocumentMoniker": "C:\\Users\\iT\\source\\repos\\EconomicNews\\Controllers\\UserPortfolioController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserPortfolioController.cs",
+              "ToolTip": "C:\\Users\\iT\\source\\repos\\EconomicNews\\Controllers\\UserPortfolioController.cs",
+              "RelativeToolTip": "Controllers\\UserPortfolioController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAwwDgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T01:13:47.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserPortfolioData.cs",
+              "DocumentMoniker": "C:\\Users\\iT\\source\\repos\\EconomicNews_DAL\\UserPortfolioData.cs",
+              "RelativeDocumentMoniker": "..\\EconomicNews_DAL\\UserPortfolioData.cs",
+              "ToolTip": "C:\\Users\\iT\\source\\repos\\EconomicNews_DAL\\UserPortfolioData.cs",
+              "RelativeToolTip": "..\\EconomicNews_DAL\\UserPortfolioData.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T01:11:56.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserPortfolio.cs",
+              "DocumentMoniker": "C:\\Users\\iT\\source\\repos\\EconomicNews_DAL\\Models\\UserPortfolio.cs",
+              "RelativeDocumentMoniker": "..\\EconomicNews_DAL\\Models\\UserPortfolio.cs",
+              "ToolTip": "C:\\Users\\iT\\source\\repos\\EconomicNews_DAL\\Models\\UserPortfolio.cs",
+              "RelativeToolTip": "..\\EconomicNews_DAL\\Models\\UserPortfolio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T01:11:23.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserAlert.cs",
+              "DocumentMoniker": "C:\\Users\\iT\\source\\repos\\EconomicNews_BLL\\UserAlert.cs",
+              "RelativeDocumentMoniker": "..\\EconomicNews_BLL\\UserAlert.cs",
+              "ToolTip": "C:\\Users\\iT\\source\\repos\\EconomicNews_BLL\\UserAlert.cs",
+              "RelativeToolTip": "..\\EconomicNews_BLL\\UserAlert.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T01:11:33.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserPortfolioDto.cs",
+              "DocumentMoniker": "C:\\Users\\iT\\source\\repos\\EconomicNews_BLL\\DTOS\\UserPortfolioDto.cs",
+              "RelativeDocumentMoniker": "..\\EconomicNews_BLL\\DTOS\\UserPortfolioDto.cs",
+              "ToolTip": "C:\\Users\\iT\\source\\repos\\EconomicNews_BLL\\DTOS\\UserPortfolioDto.cs",
+              "RelativeToolTip": "..\\EconomicNews_BLL\\DTOS\\UserPortfolioDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T01:10:19.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserAlertData.cs",
+              "DocumentMoniker": "C:\\Users\\iT\\source\\repos\\EconomicNews_DAL\\UserAlertData.cs",
+              "RelativeDocumentMoniker": "..\\EconomicNews_DAL\\UserAlertData.cs",
+              "ToolTip": "C:\\Users\\iT\\source\\repos\\EconomicNews_DAL\\UserAlertData.cs",
+              "RelativeToolTip": "..\\EconomicNews_DAL\\UserAlertData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T01:10:02.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserAlert.cs",
+              "DocumentMoniker": "C:\\Users\\iT\\source\\repos\\EconomicNews_DAL\\Models\\UserAlert.cs",
+              "RelativeDocumentMoniker": "..\\EconomicNews_DAL\\Models\\UserAlert.cs",
+              "ToolTip": "C:\\Users\\iT\\source\\repos\\EconomicNews_DAL\\Models\\UserAlert.cs",
+              "RelativeToolTip": "..\\EconomicNews_DAL\\Models\\UserAlert.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T01:00:45.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "JwtTokenService.cs",
+              "DocumentMoniker": "C:\\Users\\iT\\source\\repos\\EconomicNews_BLL\\Authentication\\JwtTokenService.cs",
+              "RelativeDocumentMoniker": "..\\EconomicNews_BLL\\Authentication\\JwtTokenService.cs",
+              "ToolTip": "C:\\Users\\iT\\source\\repos\\EconomicNews_BLL\\Authentication\\JwtTokenService.cs",
+              "RelativeToolTip": "..\\EconomicNews_BLL\\Authentication\\JwtTokenService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA4wBAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T01:01:15.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\iT\\source\\repos\\EconomicNews\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\iT\\source\\repos\\EconomicNews\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAuwHIAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T17:04:38.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "News.cs",
+              "DocumentMoniker": "C:\\Users\\iT\\source\\repos\\EconomicNews_BLL\\News.cs",
+              "RelativeDocumentMoniker": "..\\EconomicNews_BLL\\News.cs",
+              "ToolTip": "C:\\Users\\iT\\source\\repos\\EconomicNews_BLL\\News.cs",
+              "RelativeToolTip": "..\\EconomicNews_BLL\\News.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T00:59:15.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\iT\\source\\repos\\EconomicNews_BLL\\User.cs",
+              "RelativeDocumentMoniker": "..\\EconomicNews_BLL\\User.cs",
+              "ToolTip": "C:\\Users\\iT\\source\\repos\\EconomicNews_BLL\\User.cs",
+              "RelativeToolTip": "..\\EconomicNews_BLL\\User.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAswE0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T17:56:06.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UserAlertController.cs",
+              "DocumentMoniker": "C:\\Users\\iT\\source\\repos\\EconomicNews\\Controllers\\UserAlertController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserAlertController.cs",
+              "ToolTip": "C:\\Users\\iT\\source\\repos\\EconomicNews\\Controllers\\UserAlertController.cs",
+              "RelativeToolTip": "Controllers\\UserAlertController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T16:59:12.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\iT\\source\\repos\\EconomicNews_BLL\\EmailService.cs",
+              "RelativeDocumentMoniker": "..\\EconomicNews_BLL\\EmailService.cs",
+              "ToolTip": "C:\\Users\\iT\\source\\repos\\EconomicNews_BLL\\EmailService.cs",
+              "RelativeToolTip": "..\\EconomicNews_BLL\\EmailService.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAwDcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T10:52:57.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "EmailController.cs",
+              "DocumentMoniker": "C:\\Users\\iT\\source\\repos\\EconomicNews\\Controllers\\EmailController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmailController.cs",
+              "ToolTip": "C:\\Users\\iT\\source\\repos\\EconomicNews\\Controllers\\EmailController.cs",
+              "RelativeToolTip": "Controllers\\EmailController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAuwBsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T10:53:47.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\iT\\source\\repos\\EconomicNews\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\iT\\source\\repos\\EconomicNews\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-03T11:10:54.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "RegisterController.cs",
+              "DocumentMoniker": "C:\\Users\\iT\\source\\repos\\EconomicNews\\Controllers\\RegisterController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RegisterController.cs",
+              "ToolTip": "C:\\Users\\iT\\source\\repos\\EconomicNews\\Controllers\\RegisterController.cs",
+              "RelativeToolTip": "Controllers\\RegisterController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T02:12:24.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UserData.cs",
+              "DocumentMoniker": "C:\\Users\\iT\\source\\repos\\EconomicNews_DAL\\UserData.cs",
+              "RelativeDocumentMoniker": "..\\EconomicNews_DAL\\UserData.cs",
+              "ToolTip": "C:\\Users\\iT\\source\\repos\\EconomicNews_DAL\\UserData.cs",
+              "RelativeToolTip": "..\\EconomicNews_DAL\\UserData.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAuwFAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T03:08:01.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\iT\\source\\repos\\EconomicNews_BLL\\DTOS\\UserDto.cs",
+              "RelativeDocumentMoniker": "..\\EconomicNews_BLL\\DTOS\\UserDto.cs",
+              "ToolTip": "C:\\Users\\iT\\source\\repos\\EconomicNews_BLL\\DTOS\\UserDto.cs",
+              "RelativeToolTip": "..\\EconomicNews_BLL\\DTOS\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T17:56:23.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Users .cs",
+              "DocumentMoniker": "C:\\Users\\iT\\source\\repos\\EconomicNews_DAL\\Models\\Users .cs",
+              "RelativeDocumentMoniker": "..\\EconomicNews_DAL\\Models\\Users .cs",
+              "ToolTip": "C:\\Users\\iT\\source\\repos\\EconomicNews_DAL\\Models\\Users .cs",
+              "RelativeToolTip": "..\\EconomicNews_DAL\\Models\\Users .cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAcwBEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T04:58:37.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "PersonData.cs",
+              "DocumentMoniker": "C:\\Users\\iT\\source\\repos\\EconomicNews_DAL\\PersonData.cs",
+              "RelativeDocumentMoniker": "..\\EconomicNews_DAL\\PersonData.cs",
+              "ToolTip": "C:\\Users\\iT\\source\\repos\\EconomicNews_DAL\\PersonData.cs",
+              "RelativeToolTip": "..\\EconomicNews_DAL\\PersonData.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAwwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T02:11:39.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\iT\\source\\repos\\EconomicNews_BLL\\Person.cs",
+              "RelativeDocumentMoniker": "..\\EconomicNews_BLL\\Person.cs",
+              "ToolTip": "C:\\Users\\iT\\source\\repos\\EconomicNews_BLL\\Person.cs",
+              "RelativeToolTip": "..\\EconomicNews_BLL\\Person.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAIwCUAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T02:11:47.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "20250902021252_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\iT\\source\\repos\\EconomicNews_DAL\\Migrations\\20250902021252_InitialCreate.cs",
+              "RelativeDocumentMoniker": "..\\EconomicNews_DAL\\Migrations\\20250902021252_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\iT\\source\\repos\\EconomicNews_DAL\\Migrations\\20250902021252_InitialCreate.cs",
+              "RelativeToolTip": "..\\EconomicNews_DAL\\Migrations\\20250902021252_InitialCreate.cs",
+              "ViewState": "AgIAAK8AAAAAAAAAAAA4wL4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T02:12:53.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "RegisterService.cs",
+              "DocumentMoniker": "C:\\Users\\iT\\source\\repos\\EconomicNews_BLL\\RegisterService.cs",
+              "RelativeDocumentMoniker": "..\\EconomicNews_BLL\\RegisterService.cs",
+              "ToolTip": "C:\\Users\\iT\\source\\repos\\EconomicNews_BLL\\RegisterService.cs",
+              "RelativeToolTip": "..\\EconomicNews_BLL\\RegisterService.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAuwC8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T04:04:07.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\iT\\source\\repos\\EconomicNews_DAL\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "..\\EconomicNews_DAL\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\iT\\source\\repos\\EconomicNews_DAL\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "..\\EconomicNews_DAL\\Context\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T00:00:33.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\iT\\source\\repos\\EconomicNews_BLL\\DTOS\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "..\\EconomicNews_BLL\\DTOS\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\iT\\source\\repos\\EconomicNews_BLL\\DTOS\\RegisterDto.cs",
+              "RelativeToolTip": "..\\EconomicNews_BLL\\DTOS\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T03:46:53.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "UserAlertDto.cs",
+              "DocumentMoniker": "C:\\Users\\iT\\source\\repos\\EconomicNews_BLL\\DTOS\\UserAlertDto.cs",
+              "RelativeDocumentMoniker": "..\\EconomicNews_BLL\\DTOS\\UserAlertDto.cs",
+              "ToolTip": "C:\\Users\\iT\\source\\repos\\EconomicNews_BLL\\DTOS\\UserAlertDto.cs",
+              "RelativeToolTip": "..\\EconomicNews_BLL\\DTOS\\UserAlertDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T16:59:18.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "HistoricalPrice.cs",
+              "DocumentMoniker": "C:\\Users\\iT\\source\\repos\\IntegrationLayer\\DTOS\\HistoricalPrice.cs",
+              "RelativeDocumentMoniker": "..\\IntegrationLayer\\DTOS\\HistoricalPrice.cs",
+              "ToolTip": "C:\\Users\\iT\\source\\repos\\IntegrationLayer\\DTOS\\HistoricalPrice.cs",
+              "RelativeToolTip": "..\\IntegrationLayer\\DTOS\\HistoricalPrice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T00:29:24.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "MetaEnergyPrice.cs",
+              "DocumentMoniker": "C:\\Users\\iT\\source\\repos\\EconomicNews_DAL\\Models\\MetaEnergyPrice.cs",
+              "RelativeDocumentMoniker": "..\\EconomicNews_DAL\\Models\\MetaEnergyPrice.cs",
+              "ToolTip": "C:\\Users\\iT\\source\\repos\\EconomicNews_DAL\\Models\\MetaEnergyPrice.cs",
+              "RelativeToolTip": "..\\EconomicNews_DAL\\Models\\MetaEnergyPrice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T00:28:05.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "MetaEnergyPriceDto.cs",
+              "DocumentMoniker": "C:\\Users\\iT\\source\\repos\\EconomicNews_BLL\\DTOS\\MetaEnergyPriceDto.cs",
+              "RelativeDocumentMoniker": "..\\EconomicNews_BLL\\DTOS\\MetaEnergyPriceDto.cs",
+              "ToolTip": "C:\\Users\\iT\\source\\repos\\EconomicNews_BLL\\DTOS\\MetaEnergyPriceDto.cs",
+              "RelativeToolTip": "..\\EconomicNews_BLL\\DTOS\\MetaEnergyPriceDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T00:27:49.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "MetaEnergyPriceApiDto.cs",
+              "DocumentMoniker": "C:\\Users\\iT\\source\\repos\\IntegrationLayer\\DTOS\\MetaEnergyPriceApiDto.cs",
+              "RelativeDocumentMoniker": "..\\IntegrationLayer\\DTOS\\MetaEnergyPriceApiDto.cs",
+              "ToolTip": "C:\\Users\\iT\\source\\repos\\IntegrationLayer\\DTOS\\MetaEnergyPriceApiDto.cs",
+              "RelativeToolTip": "..\\IntegrationLayer\\DTOS\\MetaEnergyPriceApiDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T00:14:15.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "MarketStackService.cs",
+              "DocumentMoniker": "C:\\Users\\iT\\source\\repos\\IntegrationLayer\\APIs\\MarketStackService.cs",
+              "RelativeDocumentMoniker": "..\\IntegrationLayer\\APIs\\MarketStackService.cs",
+              "ToolTip": "C:\\Users\\iT\\source\\repos\\IntegrationLayer\\APIs\\MarketStackService.cs",
+              "RelativeToolTip": "..\\IntegrationLayer\\APIs\\MarketStackService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T00:18:07.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "MetalsCommodityController.cs",
+              "DocumentMoniker": "C:\\Users\\iT\\source\\repos\\EconomicNews\\Controllers\\MetalsCommodityController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MetalsCommodityController.cs",
+              "ToolTip": "C:\\Users\\iT\\source\\repos\\EconomicNews\\Controllers\\MetalsCommodityController.cs",
+              "RelativeToolTip": "Controllers\\MetalsCommodityController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T23:37:47.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "MetaEnergyPrice.cs",
+              "DocumentMoniker": "C:\\Users\\iT\\source\\repos\\EconomicNews_BLL\\MetaEnergyPrice.cs",
+              "RelativeDocumentMoniker": "..\\EconomicNews_BLL\\MetaEnergyPrice.cs",
+              "ToolTip": "C:\\Users\\iT\\source\\repos\\EconomicNews_BLL\\MetaEnergyPrice.cs",
+              "RelativeToolTip": "..\\EconomicNews_BLL\\MetaEnergyPrice.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAA1wFgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T23:37:24.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "MetaEnergyPriceData.cs",
+              "DocumentMoniker": "C:\\Users\\iT\\source\\repos\\EconomicNews_DAL\\MetaEnergyPriceData.cs",
+              "RelativeDocumentMoniker": "..\\EconomicNews_DAL\\MetaEnergyPriceData.cs",
+              "ToolTip": "C:\\Users\\iT\\source\\repos\\EconomicNews_DAL\\MetaEnergyPriceData.cs",
+              "RelativeToolTip": "..\\EconomicNews_DAL\\MetaEnergyPriceData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T23:32:04.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "MetaEnergyPriceApi.cs",
+              "DocumentMoniker": "C:\\Users\\iT\\source\\repos\\IntegrationLayer\\APIs\\MetaEnergyPriceApi.cs",
+              "RelativeDocumentMoniker": "..\\IntegrationLayer\\APIs\\MetaEnergyPriceApi.cs",
+              "ToolTip": "C:\\Users\\iT\\source\\repos\\IntegrationLayer\\APIs\\MetaEnergyPriceApi.cs",
+              "RelativeToolTip": "..\\IntegrationLayer\\APIs\\MetaEnergyPriceApi.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAA1wCsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T23:26:50.872Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
